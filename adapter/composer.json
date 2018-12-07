@@ -1,0 +1,9 @@
+{
+    "name": "vendor/adapter",
+    "require": {},
+    "autoload" : {
+    	"psr-4" :{
+    		"Adapter\\" : "src"
+    	}
+    }
+}
